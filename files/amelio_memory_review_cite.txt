@@ -1,0 +1,8 @@
+@article{amelio2023review,
+  title={Motivated Memory in Economics—A Review},
+  author={Amelio, Andrea and Zimmermann, Florian},
+  journal={Games},
+  volume={Special Issue on Economics of Motivated Beliefs},
+  year={2023},
+  publisher={MDPI}
+}

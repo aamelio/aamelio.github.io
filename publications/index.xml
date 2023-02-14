@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Andrea Amelio</title>
+    <link>https://aamelio.github.io/publications/</link>
+    <description>Recent content in Publications on Andrea Amelio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://aamelio.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Motivated Memory in Economics - a Review</title>
+      <link>https://aamelio.github.io/publications/memory_review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aamelio.github.io/publications/memory_review/</guid>
+      <description>Motivated reasoning refers to the idea that people hold certain beliefs about themselves or the world due to their desire to do so, rather than striving for accuracy. This type of belief formation can lead to overconfidence and polarization, as well as facilitate immoral behavior at both the individual and collective levels. One of the supply-side mechanisms for motivated reasoning is motivated memory, or the selective retrieval of past experiences or information based on self-serving criteria.</description>
+    </item>
+    
+  </channel>
+</rss>

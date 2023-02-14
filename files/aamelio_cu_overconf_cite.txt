@@ -1,0 +1,9 @@
+@TechReport{amelio2022cuoverconf,
+  author={Andrea Amelio},
+  title={{Cognitive Uncertainty and Overconfidence}},
+  year=2022,
+  month=Jun,
+  institution={University of Bonn and University of Cologne, Germany},
+  type={ECONtribute Discussion Papers Series},
+  number={173}
+}
