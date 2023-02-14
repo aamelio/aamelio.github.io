@@ -90,7 +90,7 @@ h3 {
 #sideNav .navbar-nav .nav-item .nav-link {
   font-family: Manrope;
   font-weight: 700;
-  text-transform: lowercase;
+  text-transform: capitalize;
   color: #fff;
 }
 
@@ -190,7 +190,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #7A436D;
+  color: #a56851;
 }
 
 a:hover, a:focus, a:active {
@@ -204,7 +204,7 @@ li a:hover, a:focus, a:active {
 
 
 a1 {
-  color: #7A436D;
+  color: #a56851;
 }
 
 a1:hover, a1:focus, a1:active {
@@ -235,7 +235,7 @@ li a.two:hover, a.two:focus, a:active {
 
 
 h2 a {
-  color: #7A436D !important;
+  color: #a56851 !important;
 }
 
 h2 a:hover, a:focus, a:active {
