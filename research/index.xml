@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://aamelio.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>  Social Learning, Behavioral Biases and Group Outcomes</title>
-      <link>https://aamelio.github.io/research/0sl_metacogn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aamelio.github.io/research/0sl_metacogn/</guid>
-      <description>In many relevant decision contexts we are affected by a wide array of behavioral biases. Likewise, we often have the chance to observe others&amp;rsquo; decisions and, possibly, change ours. This paper investigates the impact of social learning on a broad selection of behavioral biases, reflecting economically relevant decision-making frameworks. Through an online experiment, I document how social learning may amplify errors stemming from behavioral biases and lead to worse group outcomes.</description>
-    </item>
-    
-    <item>
       <title> Cognitive Uncertainty and Overconfidence</title>
       <link>https://aamelio.github.io/research/1cogunc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -31,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aamelio.github.io/research/2toomuchinfo/</guid>
-      <description>Agents undertaking economic decisions are exposed to an ever-increasing amount of information sources, especially nowadays in what has been defined as the Information Age. This paper investigates how the number of available information sources impacts agents’ ability to (i) select reliable sources and (ii) use their content effectively to update their beliefs. To answer these questions, I set up an online experiment based on an automata model of decision-making and belief updating.</description>
+      <description>Agents undertaking economic decisions are exposed to an ever-increasing amount of information sources, especially nowadays in what has been defined as the Information Age. This paper investigates how the number of available information sources impacts agents’ ability to (i) select reliable sources and (ii) use their content effectively to update their beliefs. To answer these questions, I set up an online experiment informed by a simple automata decision-making and belief-updating model.</description>
     </item>
     
     <item>
@@ -41,6 +32,15 @@
       
       <guid>https://aamelio.github.io/research/3contigent/</guid>
       <description>We study the effect of contingent thinking on belief updating. One possible explanation for biased beliefs is that agents distort the underlying data generating process when updating their beliefs given a new piece of information. Engaging in contingent thinking — that is, reasoning through all possible contingencies without knowing which is realized — might affect the agents’ understanding of the data generating process, resulting in differences in belief updating. Through a series of online experiments, we aim to uncover and break down the effect of contingent thinking on belief distortions into two components: (1) hypothetical thinking (updating on a piece of not-yet-observed information) and (2) contrast reasoning (comparing multiple contingencies during the updating task).</description>
+    </item>
+    
+    <item>
+      <title>Social Learning, Behavioral Biases and Group Outcomes</title>
+      <link>https://aamelio.github.io/research/0sl_metacogn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aamelio.github.io/research/0sl_metacogn/</guid>
+      <description>In many relevant decision contexts, we are affected by a wide array of behavioral biases. Also, we often have the chance to observe others&amp;rsquo; decisions and, possibly, change ours. This paper investigates the impact of social learning on a broad range of behavioral biases, reflecting economically relevant settings. Through an online experiment, I document how social learning can amplify errors stemming from behavioral biases, leading to worse group outcomes. For some tasks, high-performing participants are more likely to imitate low-performing participants, while the opposite holds for the latter, leading to an amplification of the bias.</description>
     </item>
     
   </channel>
