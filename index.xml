@@ -53,16 +53,16 @@
     </item>
     
     <item>
-      <title> Cognitive Uncertainty and Overconfidence</title>
-      <link>https://aamelio.github.io/research/2_cogunc/</link>
+      <title>  Contigent Belief Updating</title>
+      <link>https://aamelio.github.io/research/0_contigent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aamelio.github.io/research/2_cogunc/</guid>
-      <description>Overconfidence is one of the most ubiquitous cognitive bias. There is copious evidence of overconfidence being relevant in a diverse set of economic domains. In this paper, we relate the recent concept of cognitive uncertainty with overconfidence. Cognitive uncertainty represents a decision maker&amp;rsquo;s uncertainty about her action optimality. We present a simple model of overconfidence based on the concept of cognitive uncertainty. The model relates the concepts theoretically and generates testable predictions.</description>
+      <guid>https://aamelio.github.io/research/0_contigent/</guid>
+      <description>We study how contingent thinking – that is, reasoning through all possible contingencies without knowing which is realized – affects belief updating. According to the Bayesian benchmark, beliefs updated after exposure to new information should be equivalent to beliefs assessed for the contingency of receiving such information. Using an experiment, we decompose the effect of contingent thinking on belief updating into two components: (1) hypothetical thinking (updating on a piece of not-yet-observed information) and (2) contrast reasoning (comparing multiple contingencies during the updating process).</description>
     </item>
     
     <item>
-      <title>Can Information Be Too Much? Information Source Selection and Beliefs</title>
+      <title> Can Information Be Too Much? Information Source Selection and Beliefs</title>
       <link>https://aamelio.github.io/research/1_toomuchinfo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -71,12 +71,12 @@
     </item>
     
     <item>
-      <title>Contigent Belief Updating</title>
-      <link>https://aamelio.github.io/research/0_contigent/</link>
+      <title>Cognitive Uncertainty and Overconfidence</title>
+      <link>https://aamelio.github.io/research/2_cogunc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aamelio.github.io/research/0_contigent/</guid>
-      <description>We study how contingent thinking – that is, reasoning through all possible contingencies without knowing which is realized – affects belief updating. According to the Bayesian benchmark, beliefs updated after exposure to new information should be equivalent to beliefs assessed for the contingency of receiving such information. Using an experiment, we decompose the effect of contingent thinking on belief updating into two components: (1) hypothetical thinking (updating on a piece of not-yet-observed information) and (2) contrast reasoning (comparing multiple contingencies during the updating process).</description>
+      <guid>https://aamelio.github.io/research/2_cogunc/</guid>
+      <description>Overconfidence is one of the most ubiquitous cognitive bias. There is copious evidence of overconfidence being relevant in a diverse set of economic domains. In this paper, we relate the recent concept of cognitive uncertainty with overconfidence. Cognitive uncertainty represents a decision maker&amp;rsquo;s uncertainty about her action optimality. We present a simple model of overconfidence based on the concept of cognitive uncertainty. The model relates the concepts theoretically and generates testable predictions.</description>
     </item>
     
     <item>
