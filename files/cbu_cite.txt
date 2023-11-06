@@ -1,0 +1,8 @@
+@TechReport{aina_amelio_bruett2023,
+  author={Aina, Chiara, Amelio, Andrea and Bruett, Katharina},
+  title={{Contingent Belief Updating}},
+  year=2023,
+  month=Nov,
+  type={ECONtribute Discussion Papers Series},
+  number={263}
+}
