@@ -1,0 +1,9 @@
+@TechReport{amelio2023toomuchinfo,
+  author={Andrea Amelio},
+  title=Can Information Be Too Much? Information Source Selection and Beliefs}},
+  year=2023,
+  month=Nov,
+  institution={University of Bonn and University of Cologne, Germany},
+  type={ECONtribute Discussion Papers Series},
+  number={264}
+}
