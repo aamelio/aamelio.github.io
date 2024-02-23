@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/more/bayesian_updating/</loc>
+    <loc>https://aamelio.github.io/more/bayesian_updating/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/more/post_truth/</loc>
+    <loc>https://aamelio.github.io/more/post_truth/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/jmp/</loc>
+    <loc>https://aamelio.github.io/jmp/</loc>
     <lastmod>2020-01-07T16:47:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/more/</loc>
+    <loc>https://aamelio.github.io/more/</loc>
     <lastmod>2020-01-07T16:47:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publications/</loc>
+    <loc>https://aamelio.github.io/publications/</loc>
     <lastmod>2020-01-07T16:47:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/research/</loc>
+    <loc>https://aamelio.github.io/research/</loc>
     <lastmod>2020-01-07T16:47:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/more/other/</loc>
+    <loc>https://aamelio.github.io/more/other/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/publications/memory_review/</loc>
+    <loc>https://aamelio.github.io/publications/memory_review/</loc>
   </url><url>
-    <loc>http://localhost:4321/jmp/sl_biases/</loc>
+    <loc>https://aamelio.github.io/jmp/sl_biases/</loc>
   </url><url>
-    <loc>http://localhost:4321/research/0_contigent/</loc>
+    <loc>https://aamelio.github.io/research/0_contigent/</loc>
   </url><url>
-    <loc>http://localhost:4321/research/1_toomuchinfo/</loc>
+    <loc>https://aamelio.github.io/research/1_toomuchinfo/</loc>
   </url><url>
-    <loc>http://localhost:4321/research/2_cogunc/</loc>
+    <loc>https://aamelio.github.io/research/2_cogunc/</loc>
   </url><url>
-    <loc>http://localhost:4321/</loc>
+    <loc>https://aamelio.github.io/</loc>
     <lastmod>2018-02-10T18:56:13-05:00</lastmod>
     <priority>1</priority>
   </url><url>
-    <loc>http://localhost:4321/search/</loc>
+    <loc>https://aamelio.github.io/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
+    <loc>https://aamelio.github.io/tags/</loc>
   </url>
 </urlset>

@@ -82,10 +82,9 @@ h3 {
   color: #6A5D8D;
 }
 
-.navbar {
+.navbar{
   background-image: url(/img/minipaint-bar.jpg);
   background-position: center;
-  background-size: cover; /* This property ensures that the background image covers the entire container without repeating */
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
