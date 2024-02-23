@@ -2,96 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Andrea Amelio</title>
-    <link>https://aamelio.github.io/</link>
+    <link>http://localhost:4321/</link>
     <description>Recent content in Home on Andrea Amelio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://aamelio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bayesian updating</title>
-      <link>https://aamelio.github.io/more/bayesian_updating/</link>
+      <link>http://localhost:4321/more/bayesian_updating/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aamelio.github.io/more/bayesian_updating/</guid>
+      <guid>http://localhost:4321/more/bayesian_updating/</guid>
       <description>a short post about Bayesian updating</description>
     </item>
-    
     <item>
       <title>post-truth &amp; co.</title>
-      <link>https://aamelio.github.io/more/post_truth/</link>
+      <link>http://localhost:4321/more/post_truth/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://aamelio.github.io/more/post_truth/</guid>
+      <guid>http://localhost:4321/more/post_truth/</guid>
       <description>a collection of resources on post-truth</description>
     </item>
-    
     <item>
       <title>other</title>
-      <link>https://aamelio.github.io/more/other/</link>
+      <link>http://localhost:4321/more/other/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://aamelio.github.io/more/other/</guid>
+      <guid>http://localhost:4321/more/other/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Motivated Memory in Economics - A Review</title>
-      <link>https://aamelio.github.io/publications/memory_review/</link>
+      <link>http://localhost:4321/publications/memory_review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aamelio.github.io/publications/memory_review/</guid>
+      <guid>http://localhost:4321/publications/memory_review/</guid>
       <description>Motivated reasoning refers to the idea that people hold certain beliefs about themselves or the world due to their desire to do so, rather than striving for accuracy. This type of belief formation can lead to overconfidence and polarization, as well as facilitate immoral behavior at both the individual and collective levels. One of the supply-side mechanisms for motivated reasoning is motivated memory, or the selective retrieval of past experiences or information based on self-serving criteria.</description>
     </item>
-    
     <item>
       <title>Social Learning, Behavioral Biases and Group Outcomes</title>
-      <link>https://aamelio.github.io/jmp/sl_biases/</link>
+      <link>http://localhost:4321/jmp/sl_biases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aamelio.github.io/jmp/sl_biases/</guid>
+      <guid>http://localhost:4321/jmp/sl_biases/</guid>
       <description>In many relevant decision contexts, individuals are affected by a wide array of behavioral biases. Additionally, individuals often have the chance to observe others&amp;rsquo; decisions and, possibly, change theirs. This paper investigates the impact of social learning on a broad range of behavioral biases, reflecting economically relevant settings. Through an online experiment, I document how social learning can amplify errors stemming from behavioral biases, leading to worse group outcomes. For some tasks, unbiased participants are more likely to imitate biased ones, leading to an amplification of the errors.</description>
     </item>
-    
     <item>
       <title>  Contigent Belief Updating</title>
-      <link>https://aamelio.github.io/research/0_contigent/</link>
+      <link>http://localhost:4321/research/0_contigent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aamelio.github.io/research/0_contigent/</guid>
+      <guid>http://localhost:4321/research/0_contigent/</guid>
       <description>We study how contingent thinking – that is, reasoning through all possible contingencies without knowing which is realized – affects belief updating. According to the Bayesian benchmark, beliefs updated after exposure to new information should be equivalent to beliefs assessed for the contingency of receiving such information. Using an experiment, we decompose the effect of contingent thinking on belief updating into two components: (1) hypothetical thinking (updating on a piece of not-yet-observed information) and (2) contrast reasoning (comparing multiple contingencies during the updating process).</description>
     </item>
-    
     <item>
       <title> Can Information Be Too Much? Information Source Selection and Beliefs</title>
-      <link>https://aamelio.github.io/research/1_toomuchinfo/</link>
+      <link>http://localhost:4321/research/1_toomuchinfo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aamelio.github.io/research/1_toomuchinfo/</guid>
+      <guid>http://localhost:4321/research/1_toomuchinfo/</guid>
       <description>Agents undertaking economic decisions are exposed to an ever-increasing amount of information sources, especially nowadays in what has been defined as the Information Age. This paper investigates how the number of available information sources impacts agents’ ability to (i) select reliable sources and (ii) use their content effectively to update their beliefs. To answer these questions, I set up an online experiment informed by a simple automata decision-making and belief-updating model.</description>
     </item>
-    
     <item>
       <title>Cognitive Uncertainty and Overconfidence</title>
-      <link>https://aamelio.github.io/research/2_cogunc/</link>
+      <link>http://localhost:4321/research/2_cogunc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aamelio.github.io/research/2_cogunc/</guid>
+      <guid>http://localhost:4321/research/2_cogunc/</guid>
       <description>Overconfidence is one of the most ubiquitous cognitive bias. There is copious evidence of overconfidence being relevant in a diverse set of economic domains. In this paper, we relate the recent concept of cognitive uncertainty with overconfidence. Cognitive uncertainty represents a decision maker&amp;rsquo;s uncertainty about her action optimality. We present a simple model of overconfidence based on the concept of cognitive uncertainty. The model relates the concepts theoretically and generates testable predictions.</description>
     </item>
-    
     <item>
       <title>Search Results</title>
-      <link>https://aamelio.github.io/search/</link>
+      <link>http://localhost:4321/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aamelio.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml
-[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+      <guid>http://localhost:4321/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.&#xA;No content shown here is rendered, all content is based in the template layouts/page/search.html&#xA;Setting a very low sitemap priority will tell search engines this is not important content.&#xA;This implementation uses Fusejs, jquery and mark.js&#xA;Initial setup Search depends on additional output content type of JSON in config.toml&#xA;[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
     </item>
-    
   </channel>
 </rss>
