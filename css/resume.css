@@ -87,12 +87,6 @@ h3 {
   background-position: center;
 }
 
-@media (min-width: 768px) {
-  .navbar {
-    background-size: cover;
-  }
-}
-
 #sideNav .navbar-nav .nav-item .nav-link {
   font-family: Manrope;
   font-weight: 700;
