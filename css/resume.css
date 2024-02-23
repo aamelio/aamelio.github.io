@@ -85,11 +85,8 @@ h3 {
 .navbar {
   background-image: url(/img/minipaint-bar.jpg);
   background-position: center;
-  background-size: cover; /* Default setting */
-
-  /* Media query for screens smaller than 768px (adjust the value as needed) */
-  @media (max-width: 768px) {
-    background-size: contain; /* Change to 'contain' for smaller screens */
+  @media (min-width: 768px) {
+    background-size: cover;
   }
 }
 
