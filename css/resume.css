@@ -85,7 +85,6 @@ h3 {
 .navbar {
   background-image: url(/img/minipaint-bar.jpg);
   background-position: center;
-  background-size: cover;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
