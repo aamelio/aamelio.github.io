@@ -84,7 +84,13 @@ h3 {
 
 .navbar{
   background-image: url(/img/minipaint-bar.jpg);
-  background-position: center 130%;
+  background-position: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .navbar {
+    background-size: cover;
+  }
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -93,7 +99,6 @@ h3 {
   text-transform: capitalize;
   color: #fff;
 }
-
 
 @media (max-width: 991px) {
   .img-profile-mobile {
