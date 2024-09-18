@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://aamelio.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+   
+    <item>
+      <title>  Social Learning, Behavioral Biases and Group Outcomes</title>
+      <link>https://aamelio.github.io/research/sl_biases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aamelio.github.io/research/sl_biases/</guid>
+      <description>In many relevant decision contexts, individuals are affected by a wide array of behavioral biases. Additionally, individuals often have the chance to observe others’ decisions and, possibly, change theirs. This paper investigates the impact of social learning on a broad range of behavioral biases, reflecting economically relevant settings. Through an online experiment, I document how social learning can amplify errors stemming from behavioral biases, leading to worse group outcomes. For some tasks, unbiased participants are more likely to imitate biased ones, leading to an amplification of the errors. A misalignment between performance and relative confidence drives this detrimental effect of social learning on group outcomes. These results shed light on settings where cognitive biases affect decision-making in the presence of social learning, such as the interpretation of statistical information or investment decisions. My results suggest that social learning often does not eliminate, and will in fact sometimes exacerbate, the impact of cognitive biases in such settings.</description>
+    </item>   
+   
+   
     <item>
       <title>  Contigent Belief Updating</title>
       <link>https://aamelio.github.io/research/0_contigent/</link>
