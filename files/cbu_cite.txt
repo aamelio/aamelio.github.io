@@ -1,4 +1,4 @@
-@TechReport{aina_amelio_bruett2023,
+@TechReport{aina_amelio_bruett2024,
   author={Aina, Chiara, Amelio, Andrea and Bruett, Katharina},
   title={{Contingent Belief Updating}},
   year=2023,
