@@ -1,0 +1,7 @@
+@TechReport{amelio2026commoninfo,
+  author={Andrea Amelio},
+  title={{Inference and Observational Learning under Common Information: Relative Confidence and Its Calibration}},
+  year=2026,
+  month=Sep,
+  type={Working Paper}
+}
