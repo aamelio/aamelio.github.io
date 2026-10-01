@@ -1,9 +1,7 @@
-@TechReport{amelio2022cuoverconf,
+@TechReport{amelio2026commoninfo,
   author={Andrea Amelio},
-  title={{Cognitive Uncertainty and Overconfidence}},
-  year=2022,
-  month=Jun,
-  institution={University of Bonn and University of Cologne, Germany},
-  type={ECONtribute Discussion Papers Series},
-  number={173}
+  title={{Inference and Observational Learning under Common Information: Relative Confidence and Its Calibration}},
+  year=2026,
+  month=Sep,
+  type={Working Paper}
 }

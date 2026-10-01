@@ -1,7 +1,7 @@
-@TechReport{amelio2024sl_biases,
+@TechReport{amelio2026sl_biases,
   author={Andrea Amelio},
-  title=Social Learning, Behavioral Biases and Group Outcomes}},
-  year=2024,
-  month=Sep,
+  title={{Social Learning, Behavioral Biases and Group Outcomes}},
+  year=2026,
+  month=Oct,
   type={Working Paper}
 }
