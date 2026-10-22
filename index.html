@@ -54,6 +54,8 @@ a{color:inherit}
 }
 .section{padding:66px 0 10px;border-top:1px solid var(--line-strong)}
 .section-head{margin-bottom:28px}.section h2{font-family:var(--serif);font-size:46px;font-weight:600;letter-spacing:-.03em;line-height:1.05;margin:0}
+.research-subhead{font-family:var(--serif);font-size:28px;font-weight:600;letter-spacing:-.02em;line-height:1.15;margin:0 0 18px}
+.research-subsection + .research-subsection{margin-top:42px}
 .cards{display:grid;gap:22px}
 .paper-card{background:var(--paper);border:1px solid var(--line);border-radius:18px;padding:30px 32px 28px;box-shadow:var(--shadow);transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease}.paper-card:hover{transform:translateY(-2px);box-shadow:0 20px 50px rgba(66,50,36,.09);border-color:#cec2b3}
 .paper-card h3{font-family:var(--serif);font-size:31px;line-height:1.16;letter-spacing:-.025em;font-weight:600;margin:0 0 8px}.paper-card h3 a{text-decoration:none}.paper-card h3 a:hover{color:var(--accent)}
@@ -103,7 +105,10 @@ function toggleAbstract(id,button){
 
   <section class="section" id="research">
     <div class="section-head"><h2>Research</h2></div>
-    <div class="cards">
+
+    <div class="research-subsection">
+      <h3 class="research-subhead">Working Papers</h3>
+      <div class="cards">
       <article class="paper-card">
         <h3><a href="https://andreaamelio.com/files/amelio_social_learning.pdf">Social Learning, Behavioral Biases and Group Outcomes</a></h3>
         <div class="venue">Under Review</div>
@@ -140,6 +145,22 @@ function toggleAbstract(id,button){
         </div>
         <div class="abstract" id="abs-common-info"><p>People who observe the same statistical evidence can nevertheless reach different conclusions because they differ in inference quality. This creates scope for beneficial social learning even when another person possesses no additional raw information. We study this possibility in a balls-and-urns experiment in which a participant and a peer face the same prior, signal structure, and realized signal. After reporting an initial posterior, participants observe the peer’s posterior and may revise. Final beliefs are more accurate on average after peer observation. Relative cognitive uncertainty—the participant’s uncertainty about their own reasoning relative to the uncertainty attributed to the peer—is aligned with objective relative accuracy. Participants also place more weight on the peer when relative confidence favors the peer, and objectively better peer posteriors receive more than twice as much weight as worse ones. A compound-inference block provides further evidence for this account: when participants become more uncertain relative to a peer solving the corresponding reduced problem, they rely substantially more on the peer, learning gains increase, and peer quality becomes correspondingly more important for final accuracy. The results show that common information does not eliminate the value of social learning: heterogeneous inference creates gains from observing others, and the calibration of relative confidence determines whether those gains are realized.</p></div>
       </article>
+    </div>
+    </div>
+
+    <div class="research-subsection">
+      <h3 class="research-subhead">Work in Progress</h3>
+      <div class="cards">
+        <article class="paper-card">
+          <h3>Retractions and Memory</h3>
+          <div class="coauthors">with <a href="https://sites.google.com/site/econflorianzimmermann/">F. Zimmermann</a></div>
+          <p class="blurb">How do people update their beliefs when past signals are debunked?</p>
+          <div class="actions">
+            <button type="button" aria-expanded="false" onclick="toggleAbstract('abs-retractions-memory',this)">Abstract</button>
+          </div>
+          <div class="abstract" id="abs-retractions-memory"><p>How do people update their beliefs when past signals are debunked? Retractions generally engage memory, making its properties central to understanding their effects on beliefs. Correcting a belief requires recalling whether the debunked signal was previously observed and how much it influenced that belief. We study how associative memory shapes recognition of the retracted information and how systematic errors in recalling past signals distort the response to retractions. The project examines when these memory processes affect belief correction and when they cause retractions to backfire, moving beliefs further in the direction of the debunked information.</p></div>
+        </article>
+      </div>
     </div>
   </section>
 
